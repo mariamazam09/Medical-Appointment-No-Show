@@ -1,5 +1,9 @@
 # Medical Appointment No-Show: 
-# Uncovering Patient Demographics and Influential Factors
+## Uncovering Patient Demographics and Influential Factors
+
+<p align="center">
+  <img src="https://www.cedar.com/wp-content/uploads/2022/03/No-Shows-hero.png" alt="Preview" width="600">
+</p>
 
 
 ## Description:
